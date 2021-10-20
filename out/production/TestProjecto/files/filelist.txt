@@ -1,0 +1,5 @@
+/files/title_theme.mp3
+/files/arcade_theme.mp3
+/files/06_Suspense.mp3
+/files/misc_menu.mp3
+/files/misc_menu_4.mp3
